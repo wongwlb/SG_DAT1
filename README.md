@@ -3,11 +3,11 @@
 
 This is a description of my README.md
 
-Im editing from cml
+Im editing from cml (gitbash)
 
 Gitbash
-print "\n"
-ls
+
+<p> 1. ls <\p>
 print "\n"
 pwd
 print "\n"
