@@ -18,7 +18,7 @@ Hi guys! I'm Brandon Wong and this is my General Assembly Singapore (Data Scienc
 <p>5. vim "file_name"</p>
 
 
-<h2>Add/Commit/Pull/Push</h2>
+<h1>Add/Commit/Pull/Push</h1>
 
 <p>1. git push -A "file_name"</p>
 
@@ -28,3 +28,9 @@ Hi guys! I'm Brandon Wong and this is my General Assembly Singapore (Data Scienc
 
 <p>4. git push origin master</p>
 
+
+<h2>GitHub Help Video</h2>
+
+<p>Check out this video for basic GitHub processes:</p>
+
+<p>https://www.youtube.com/watch?v=E8TXME3bzNs</p>
