@@ -15,5 +15,5 @@ Im editing from cml (gitbash)
 
 <p>4. Code this: git clone directory_name #from github</p>
 
-<p>5.vim "file_name"</p>
+<p>5. vim "file_name"</p>
 
