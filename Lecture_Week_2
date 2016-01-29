@@ -1,0 +1,23 @@
+# Week 2 Lecture - Machine Learning
+
+Model split into: Training Set -> Test
+
+Maching learning training set:
+80% negative-20% positive is the stereotypical rule (e.g. Not face vs Face)
+
+Supervised learning - Making predictions (generalization)
+	Accurately predict unseen test cases
+	Understand which predictors affect the response, and how
+	Asses the quality of our predictions
+
+Unsupervised learning - Extracting structures (representation)
+	No response variable y, just a set of predictors X
+	Find groups of observations that behave similarly
+
+Vector(list) of "predictors": X
+"response": Y
+If y is continuous: REGRESSION
+If y is categorical: CLASSIFICATION
+
+
+
