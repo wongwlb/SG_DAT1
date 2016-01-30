@@ -1,0 +1,14 @@
+Lecture_Week_3
+
+Review
+
+List vs Dict (List has order, dict is hash memory)
+List vs Np.array (List can store different types, numpy only 1 type)
+Floating point considerations (Floating points are not precise)
+pandas: head, describe, columns, info, dropna/fillna
+
+Linear Regression Overview
+
+E.g. Height vs Weight: Least squares regression
+
+Linear Algebra
